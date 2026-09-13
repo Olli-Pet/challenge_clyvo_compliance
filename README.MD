@@ -10,6 +10,14 @@ Henrique Rodrigues - 562917 - 2TDSA <br>
 Ruan Luca Feliciano - 562218 - 2TDSA <br> <br>
 
 ---
+## Descrições gerais
+- Todos os Epics, Features e PBIs estão com: prioridade, esforço, descrição, critérios de aceite e devidamente linkados.
+- Há um total de 4 sprints, sendo 1 e 2: já entregues, 3: atual e 4: futura
+- A sprint 3 tem tasks em todos os PBIs
+- Janelas para visualização: Work Items, Backlogs e Sprints
+
+<br>
+
 # Product Backlog — Olli Pet
 
 ## Épico 1 — Cadastro e Gestão do Pet
